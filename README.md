@@ -8,11 +8,11 @@
 
 > Запустить контейнер Ubuntu, установить Web-сервер Apache и вывести в браузере страницу с текстом "Hello, World!".
 
-![run-docker-container](<images\run-docker.png>)
+![run-docker-container](<images/1-run-docker.png>)
 
 > Данная команда запускает контейнер который поднимается с образом ubuntu:latest, так же пробрасывает внешний 8000 порт хоста на внутренний порт контейнера 80
 
-![apt-update](<images\apt-update.png>)
+![apt-update](<images/2-apt-update.png>)
 
 `apt update` -  обновляет список доступных пакетов.
 
@@ -65,7 +65,7 @@
 
 ### Удаляем контейнер
 
-![rm-container](<images/rm-container.png>)
+![rm-container](<images/12-rm-container.png>)
 
 ## Выводы
 
